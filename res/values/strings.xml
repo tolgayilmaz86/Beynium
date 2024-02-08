@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Beynium</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section1">Section 1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="title_activity_splashctivity">Splashctivity</string>
+    <string name="gameMathBalloonInfo">Topları küçükten büyüğe doğru yakalayın!</string>
+    <string name="gameMemoryLampsInfo">Lambaların yanma sırasını hatırlayabilir misiniz?</string>
+    <string name="gameMathOperationsInfo">İşlemleri hızlıca hesaplayın bakalım!</string>
+    <string name="gameBigSmallInfo">Sense hangi taraf daha büyük?</string>
+
+</resources>

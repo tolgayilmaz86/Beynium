@@ -1,0 +1,86 @@
+
+*.dex
+
+*.apk
+
+*.class
+
+*.jar
+
+.DS_Store
+
+*.prefs
+
+*.prefs
+
+bin/Beynium.apk
+
+bin/classes.dex
+
+bin/classes/tr/com/reformtek/beynium/MainActivity$1.class
+
+bin/classes/tr/com/reformtek/beynium/MainActivity.class
+
+bin/dexedLibs/andengine-167cdb8b2164223aa4baeb9b895e4880.jar
+
+bin/dexedLibs/andenginephysicsbox2dextension-5803c4221b72c9d83f13363f7bde9007.jar
+
+bin/resources.ap_
+
+.DS_Store
+
+.DS_Store
+
+bin/classes/tr/com/reformtek/beynium/R$string.class
+
+bin/classes/tr/com/reformtek/beynium/R$string.class
+
+bin/classes/tr/com/reformtek/beynium/R$style.class
+
+bin/classes/tr/com/reformtek/beynium/R$styleable.class
+
+bin/classes/tr/com/reformtek/beynium/R$styleable.class
+*.cache
+/gen
+/bin
+/bin
+.settings
+/gen
+*.cache
+.project
+.DS_Store
+.classpath
+/libs
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
